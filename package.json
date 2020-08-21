@@ -2,7 +2,7 @@
   "name": "employee-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/KunZizinho/Employee-Directory",
+  "homepage": "https://KunZizinho.github.io/Employee-Directory",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^4.2.4",
