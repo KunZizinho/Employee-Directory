@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KunZizinho/Employee-Directory.git/static/css/main.69eda509.chunk.css",
+    "main.js": "/KunZizinho/Employee-Directory.git/static/js/main.b3cac90b.chunk.js",
+    "main.js.map": "/KunZizinho/Employee-Directory.git/static/js/main.b3cac90b.chunk.js.map",
+    "runtime-main.js": "/KunZizinho/Employee-Directory.git/static/js/runtime-main.c56c1223.js",
+    "runtime-main.js.map": "/KunZizinho/Employee-Directory.git/static/js/runtime-main.c56c1223.js.map",
+    "static/js/2.779aeb0f.chunk.js": "/KunZizinho/Employee-Directory.git/static/js/2.779aeb0f.chunk.js",
+    "static/js/2.779aeb0f.chunk.js.map": "/KunZizinho/Employee-Directory.git/static/js/2.779aeb0f.chunk.js.map",
+    "index.html": "/KunZizinho/Employee-Directory.git/index.html",
+    "precache-manifest.80f556ba732afc06da0affabe53cef1e.js": "/KunZizinho/Employee-Directory.git/precache-manifest.80f556ba732afc06da0affabe53cef1e.js",
+    "service-worker.js": "/KunZizinho/Employee-Directory.git/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/KunZizinho/Employee-Directory.git/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.779aeb0f.chunk.js.LICENSE.txt": "/KunZizinho/Employee-Directory.git/static/js/2.779aeb0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c56c1223.js",
+    "static/js/2.779aeb0f.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.b3cac90b.chunk.js"
+  ]
+}
